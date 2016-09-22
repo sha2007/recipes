@@ -1,6 +1,6 @@
 #Ingredients
 -avocado
--tomato
+~~tomato~~
 -lime
 
 #Instructions
